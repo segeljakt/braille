@@ -1,0 +1,12 @@
+[package]
+name = "braille"
+readme = "README.md"
+repository = "https://github.com/segeljakt/readkey"
+homepage = "https://github.com/segeljakt/readkey"
+description = "Rust crate for generating Braille and box-drawing characters."
+version = "1.0.0"
+authors = ["Klas Segeljakt <klasseg@kth.se>"]
+edition = "2018"
+license = "MIT"
+
+[build-dependencies]
