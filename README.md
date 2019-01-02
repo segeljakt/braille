@@ -10,10 +10,10 @@ A library for generating braille and box-drawing characters.
 
 This library exposes four arrays:
 
-* `BRAILLE` - Print a braille character.
-* `BRAILLE_SINGLE` - Print a single-dot braille character.
-* `BOX` - Print a box-drawing character.
-* `BOX_SINGLE` - Print a single-dot box-drawing character.
+* `BRAILLE` - Contains all braille characters.
+* `BRAILLE_SINGLE` - Contains all single-dot braille characters.
+* `BOX` - Contains all box-drawing characters.
+* `BOX_SINGLE` - Contains all single-dot box-drawing characters.
 
 How these work is best explained with examples.
 
